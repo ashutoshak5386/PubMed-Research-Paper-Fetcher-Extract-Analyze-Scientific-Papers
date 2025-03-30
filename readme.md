@@ -146,5 +146,5 @@ This project is licensed under the **MIT License**.
 
 ## Contact
 
-For any questions, reach out via GitHub Issues or email at [[your-email@example.com](mailto\:ashutoshak5386@gmail.com)].
+For any questions, reach out via GitHub Issues or email at [[ashutoshak5386@gmail.com](mailto\:ashutoshak5386@gmail.com)].
 
